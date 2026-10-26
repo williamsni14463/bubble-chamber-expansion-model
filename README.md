@@ -1,4 +1,4 @@
-# Bubble Chamber Expansion — Sizing and Dynamic Model
+# Bubble Chamber Expansion: Sizing and Dynamic Model
 
 How much a bellows has to move to produce a given pressure change in a chamber,
 how that answer changes between gas and liquid, and what the actuator has to do
